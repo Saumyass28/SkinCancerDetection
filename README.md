@@ -66,4 +66,9 @@ MIT License
 
 ## Contact
 Saumya Sharma - saumyasharma281114@gmail.com
+
+
+
+
+NOTE: ****Few more important contents for this project such as the model and data files which are huge in size are provided in this drive link for access- ***
 ```
