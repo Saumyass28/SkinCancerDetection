@@ -70,5 +70,5 @@ Saumya Sharma - saumyasharma281114@gmail.com
 
 
 
-NOTE: ****Few more important contents for this project such as the model and data files which are huge in size are provided in this drive link for access- ***
+NOTE: ****Few more important contents for this project such as the model and data files which are huge in size are provided in this drive link for access-  https://drive.google.com/drive/folders/1LOBDQAIx81cLvCaraypTC2BFjH8SNbE2?usp=drive_link***
 ```
